@@ -17,7 +17,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.res.stringResource
 import com.example.mytodolist.R
-import kotlin.math.sin
+
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
